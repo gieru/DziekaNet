@@ -7,10 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>DziekaNet</title>
     </head>
     <body>
         <?php
+        echo "asdf";
+        
+       
         // put your code here
         ?>
     </body>
